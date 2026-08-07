@@ -64,6 +64,13 @@ Location: India (Open to Remote / Hybrid / On-site)
 
 ### 📌 Featured Engineering Projects
 
+#### 🎬 [BookMyShow-clone- | Full-Stack Movie Ticket Booking Platform](https://github.com/Amit07072003/BookMyShow-clone-)
+- **Tech Stack:** `React 19`, `Node.js`, `Express.js`, `MongoDB`, `Razorpay API`, `Ant Design`, `Nodemailer`
+- **Key Highlights:**
+  - Architected full-stack movie booking platform with role-based access for **Users**, **Theatre Partners**, and **Admins**.
+  - Integrated **Razorpay Payment Gateway** and dynamic interactive seat matrix selection.
+  - Built automated ticket confirmation & password recovery via **Nodemailer / SendGrid**.
+
 #### 🛒 [mystore | Full-Stack E-Commerce Platform](https://github.com/Amit07072003/mystore)
 - **Tech Stack:** `Spring Boot`, `MySQL`, `Spring Security`, `JWT`, `REST API`, `Maven`
 - **Key Highlights:**
